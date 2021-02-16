@@ -3,8 +3,8 @@ Youtube-Sync is an online platform, which will assist you to create a room for f
 
 Technology used-
 1.Youtube API
-2.For backend-React.Js
-3.For frontend-Node.Js
+2.For backend-Node.Js 
+3.For frontend-React.Js
 
 What can you do?
 -Pick a YouTube video you would like to watch with others.Share your link directly with friends.
